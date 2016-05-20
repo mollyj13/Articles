@@ -2,7 +2,7 @@
 ### We hope you learn a lot about **A, An, & The**. 
 
 ## Let’s start with the indefinite articles - **a & an**. 
-One reason **a & an** are the indefinite articles is because they show that the speaker doesn’t know how much of the noun there is. 
+One reason **a & an** are the indefinite articles is because they show that the speaker doesn’t know how much of something there is. 
 
 <mark>This reads awkwardly I want to make changes
 
