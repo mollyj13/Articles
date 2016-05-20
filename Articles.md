@@ -2,71 +2,103 @@
 ### We hope you learn a lot about **A, An, & The**. 
 
 ## Let’s start with the indefinite articles - **a & an**. 
-One reason **a & an** are the indefinite articles is because they show that the speaker doesn’t know how much of something there is. 
-
-<mark>This reads awkwardly I want to make changes
+**A & an** are the indefinite articles. They show that the speaker doesn’t know how much of something there is. 
 
 >
-For example: **“a car.”** 
+For example: **“a car.”**  
 Ok, whose car? How many cars? Because neither of us know anything about this car, we use the indefinite **a** article. 
 >
 
-The indefinite articles **a & an** also say that there is *something*, but we don’t know what that something is. Either we don’t have the item in front of us, or we have never seen it before. 
+The indefinite articles **a & an** also say that there is *something*, but we don’t know what that something is or we don’t have the item in front of us.
 
 >
 For example: 
 I need **a** chair.	 
-I need a chair, but I don’t know what it looks like or where one is. All I know is that I want *one* chair. 
+I need a chair, but I don’t know what the chair looks like or where one is. 
 >
 
-Generally we use the **a** article with nouns that start with a consonant (any letter that’s not a vowel, so: <mark>insert a photo of the consonants). 
-
->
-Examples: a coat, a table, a blanket.
->
-
-Generally we use the **an** article with nouns that start with a vowel: <mark>insert a photo of the vowels<mark>
-
->
-Examples: an apple, an office, an egg.
->
-
-##Quiz:
+##Quiz
 ###Choose the correct article for the following nouns:
-A/An Bed	
-**A
-An** 
+I have *A/two* bed.  	
+**-A  
+-Two** 
 
 >
 >**A** bed.
 
-A/An Artichoke	
-**A
-An** 
+I want *A/two* car.  	
+**-A  
+-Two** 
 
 >
->**An** artichoke
+>**A** car.
 
-A/An Coat	
-**A
-An** 
+##How many?
+We can also use **a & an** to say that there is only one of something. 
+
+>
+For example: “**an** apple”. 
+How many apples are there? 1. 
+>
+
+If the noun is plural (more than one thing: chairs, tables, dogs) we do *not* use an article. 
+
+>
+For example: "Two dogs:.
+There is more than one dog, so "two" describes the dogs. We don't need an article.
+>
+
+##Quiz
+###Choose the correct article for the following nouns:
+*A/No* article coat  
+**-A  
+-No article** 
 
 >
 >**A** coat.
 
-A/An Office		
-**A
+*A/No* article phones  
+**-A  
+-No article**
+
+>
+>No article
+
+## Consonants & Vowels
+Generally we use the **an** article with nouns that start with a vowel. (insert a photo of the vowels)
+
+>
+Examples: an **a**pple, an **o**ffice, an **e**gg.
+>
+
+Generally we use the **a** article with nouns that start with a consonant. A consonant is any letter that’s not a vowel. (insert a photo of the consonants). 
+
+>
+Examples: a **c**oat, a **t**able, a **b**lanket.
+>
+
+##Quiz:
+###Choose the correct article for the following nouns:
+*A/An* office		
+**A  
 An**
 
 >
->**An** office.
+>**An** office
 
-A/An Egg	
-**A
+*A/An* building  
+**A  
 An**
 
 >
->**An** egg.
+>**A** building
+
+*A/An* egg	 
+**A  
+An**
+
+>
+>**An** egg
 
 ## An or A?
 Sometimes we use **an** with words that start with H. 
@@ -81,76 +113,76 @@ And sometimes we use **a** with words that start with H.
 Examples: A house, A horse, A head.
 >
 
-The general rule of thumb is that if the beginning of the word starts with a vowel sound then we use **an** and if it starts with an “h” sound, we use **a**.
+Generally if the beginning of the word starts with a vowel sound then we use **an** and if it starts with an “h” sound, we use **a**.
 
+####Listen to the examples below. Can you hear the difference between the vowel sound and "h" sound?
 >
-Example: hour <mark>(insert sound clip here)</mark>
-Example: horse <mark>**(insert sound clip here)</mark>
+Example: hour (insert sound clip here)  
+Example: horse (insert sound clip here)
 >
 
 ##Quiz:
 ###Choose the correct article for the following nouns:
-A/An hour <mark>(insert sound clip here)</mark>		
-**A
+*A/An* hour (insert sound clip here)  
+**A  
+An**
+
+>
+>An Hour
+
+*A/An* horse (insert sound clip here)  
+**A  
+An**
+
+>
+>A horse
+ 
+*A/An* head (insert sound clip here)  
+**A  
 An**
  
-A/An horse <mark>(insert sound clip here)</mark>		
+ >
+ >A head
+ 
+A/An house (insert sound clip here)
 **A
 An**
+
+>
+>A house
  
-A/An head <mark>(insert sound clip here)</mark>		
+A/An historic moment (insert sound clip here)
 **A
 An**
- 
-A/An house <mark>(insert sound clip here)</mark>			
-**A
-An**
- 
-A/An historic moment <mark>(insert sound clip here)</mark>			
-**A
-An**
- 
-## Only one of something
-We can also use **a & an** to say that there is only one (1) of something. 
 
 >
-For example: “**an** apple”. 
-How many apples are there? 1. 
->
+>An historic moment
 
-<mark>Probably need more information here...</mark>
+The follow section needs more though on how to clearly delineate the different ways that people can choose based on their answers.
 
-##Quiz:
-###Can we use **a & an** with plural nouns (more than one thing: chairs, tables, dogs)? 	
-
-<mark>This section needs more though on how to clearly delineate the different ways that people can choose based on their answers. </mark>
-
-**Yes/No**
+##The
+**The** is the definite article and tells us that both the speaker and the listener know of the object. 
 
 >
-No→**a & an** are the singular indefinite articles they identify that the object is the only thing.
+For example:“**The** apple is red.”  
+How do they know which apple? Because the apple is the only apple you could be talking about OR everyone knows about the specific apple. 
 >
 
-*Separating text*
+Can we use **the** to talk about things in general? 
 
 >
-Yes→ No link, because **a & an** are the singular indefinite articles they identify that the object is the only thing. 
-
->**The** is the definite article and tells us that both the speaker and the listener know of the object. 
-
->For example:“**The** apple is red.” Everyone knows which apple you are talking about. 
-
->How do they know which apple? Because the apple is the only apple you could be talking about OR everyone knows about the specific apple. 
+For Example: The elephants can swim well.   
+**Yes  
+No  
+It depends**
 >
 
-###Can we use the to talk about things in general? Example: The elephants can swim well. 
-
-**Yes/No/It depends**
+Separating text
 
 >
 >Yes. In this case, the speakers both know which things are in question so they can use **the**. 
 
->Example: While on safari two women say, “**The** elephants can swim well!” this is because both women know which elephants are currently swimming. 
+>Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming. 
 
 >However, If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
 >
@@ -160,9 +192,9 @@ Separating text.
 >
 >No. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
 
->But, if the speakers both know which things are in question they can use **the**. 
+>But, if both speakers know which things are in question they can use **the**. 
 
->Example: While on safari two women say, “**The** elephants can swim well!” this is because both women know which elephants are currently swimming. 
+>Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
 >
 
 Separating text
@@ -170,136 +202,105 @@ Separating text
 >
 It depends. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the*. 
 
->But, if the speakers both know which things are in question, they can use **the**. 
+>But, if both speakers know which things are in question, they can use **the**. 
 
->Example: While on safari, two speakers say, “**The** elephants can swim well!” this is because both speakers know which elephants are currently swimming. 
+>Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
 >
 
-###How are you feeling?
-<mark>More clearly delineate the options available to people</mark>
-
-**YAY!**		 
-*(link to Quiz)*
-
-**I'm confused!** 
-
->
-Don’t worry! This is hard for many people.**
->
-
-**More information / Explain again** 		
+**More quizzes! / Explain again** 		
 *(If they choose Explain again, it will return them to the top to re-read otherwise move on to Quiz)*
 
 ##Quiz
 ###Choose the correct answer for the following questions:
+*The* Switzerland is in Europe.  
+**The  
+No The**
 
-####The Switzerland is in Europe. 
-
-**“The”/ No “The”**
-
-The 
 >
-The- 
-Switzerland is a country and it’s also a proper noun so it doesn’t need an article. 
+The- Switzerland is a country and it’s also a proper noun so it doesn’t need an article. 
 >
 
-No the!
+.
 
 >
 No The! 
 Because Switzerland is a proper noun and a country it doesn’t need an article.
 >
 
-####I like to visit my the uncle. 
-
-**The/ No The**
-
-The 
->
-The  Your uncle belongs to you (also known as a “possessive”), he doesn’t need an article, we already know that he is yours. 
->
-
-No the. 
+I like to visit my the uncle.   
+**The  
+No The**
 
 >
-No The.  Here, your uncle belongs to you (also known as a “possessive”), he doesn’t need an article, we already know that he is yours. 
+The- Your uncle belongs to you (also known as a “possessive”), he doesn’t need an article, we already know that he is yours. 
 >
 
-####I like to visit an uncle of mine. 
-
-**An/No An**
-
-An.
->
-An. Yes! Very good. You are saying that you have more than one uncle but the listener doesn’t know which one, so you need an indefinite article. 
-
->Someone might then ask: “which uncle?” 
-
->“I like to visit the uncle who lives in San Francisco.” 
-Here you are clarifying which uncle→ the one who lives in San Francisco. 
->
-
-No an.
+.
 
 >
-No An  “I like to visit an uncle of mine.” You are saying that you have more than one uncle but the listener doesn’t know which one, so you need an indefinite article. 
-
->Someone might then ask: “which uncle?” 
-
->“I like to visit the uncle who lives in San Francisco.” 
-Here you are clarifying which uncle→ the one who lives in San Francisco. 
+No The. Here, your uncle belongs to you (also known as a “possessive”), he doesn’t need an article, we already know that he is yours. 
 >
 
-####It’s good car. OR It’s a good car. 
+I like to visit an uncle of mine.   
+**An  
+No An**
 
-It's good car.
+>
+>An. Yes! Very good. You are saying that you have more than one uncle but the listener doesn’t know which one, so you need an indefinite article. 
+
+.
+
+>
+>No An- “I like to visit an uncle of mine.” You are saying that you have more than one uncle but the listener doesn’t know which one, so you need an indefinite article. 
+
+It’s good car. OR It’s a good car.   
+**It's good car.    
+It's a good car.**
+
 >
 It’s good car.  There is only one car and we don’t know which car so we want to use the indefinite article a. 
 >
 
-It's a good car.
+.
 
 >
 It’s a good car.  There is only one car so we need the singular article a. :p
 >
 
-##Quiz:
-####Choose the correct answer for the following questions:
-
-A/An orange		
-**A
+*A/An* orange		
+**A  
 An**
 
 >
 **An** orange.
 >
 
-A/The apple		
-**A
+*A/The* apple		
+**A  
 The**
 
 >
 **The** apple.
 >
 
-A/An habit		
-**A
+*A/An* habit		
+**A  
 An**
 
 >
 **A** habit.
 >
 
-An/The hotel		
-**An
+*An/The* hotel		
+**An  
 The**
 
 >
 **The** hotel.
 >
 
-An/The car		
-**An
+*An/The* car		
+**An  
 The**
 
 >
@@ -307,15 +308,15 @@ The**
 >
 
 I want to ride **an/a** horse.		
-**A
+**A  
 An**
 
 >
 I want to ride **a** horse.
 >
 
-I want **the/a** ice cream.
-**The /
+I want **the/a** ice cream.  
+**The  
 A**
 
 >
@@ -323,7 +324,7 @@ I want **the** ice cream.
 >
 
 Take me to **an/a** hostel.		
-**An
+**An  
 A**
 
 >
@@ -331,22 +332,23 @@ Take me to **a** hostel.
 >
 
 I like to eat **a/an** salad before I eat **a/the** main course.		
-1. **A
+1. **A  
 An**		
-2. **A
+2. **A  
 The**
 
 >
 I like to eat **a** salad before I eat **the** main course.
 >
 
-Yesterday when I was at **an/the** house with Mary’s friends I saw **an/a** banana and I wanted to eat it!
-
-1. **An/The**
-2. **An/A**
+Yesterday when I was at **an/the** house with Mary’s friends I saw **an/a** banana and I wanted to eat it!  
+1. **An  
+The**  
+2. **An  
+A**
 
 >
-Yesterday when I was at the house with Mary’s friends I saw a banana and I wanted to eat it!
+Yesterday when I was at **the** house with Mary’s friends I saw **a** banana and I wanted to eat it!
 >
 
 ##Final Quiz:
@@ -354,8 +356,8 @@ Yesterday when I was at the house with Mary’s friends I saw a banana and I wan
 2. Record a video of yourself using as many **a/an/the** articles as you can. *Maximum 2 minutes.*
 
 ##Bonus: 
-Practice one of the tongue twister below and send me a quick recording of you saying it!	
-<mark>(Include recordings of TTs.)</mark>
+Practice one of the tongue twisters below and send me a quick recording of you saying it!	
+(Include recordings of TTs.)
  
 1. Near an ear, a nearer ear, a nearly eerie ear.
 2. Can you imagine an imaginary menagerie manager
