@@ -9,14 +9,6 @@ For example: **“a car.”**
 Ok, whose car? How many cars? Because neither of us know anything about this car, we use the indefinite **a** article. 
 >
 
-The indefinite articles **a & an** also say that there is *something*, but we don’t know what that something is or we don’t have the item in front of us.
-
->
-For example: 
-I need **a** chair.	 
-I need a chair, but I don’t know what the chair looks like or where one is. 
->
-
 ##Quiz
 ###Choose the correct article for the following nouns:
 I have *A/two* bed.  	
@@ -33,36 +25,36 @@ I want *A/two* car.
 >
 >**A** car.
 
-##How many?
-We can also use **a & an** to say that there is only one of something. 
+##Definite VS. Indefinite, Singular
+We also use **a & an** to say that there is only one of something. 
 
 >
 For example: “**an** apple”. 
 How many apples are there? 1. 
 >
 
-If the noun is plural (more than one thing: chairs, tables, dogs) we do *not* use an article. 
+If the noun is plural (more than one thing: chairs, tables, dogs) we do *not* use **a** or **an**. 
 
 >
 For example: "Two dogs:.
-There is more than one dog, so "two" describes the dogs. We don't need an article.
+There is more than one dog, so "two" describes the dogs. We don't need either **a** or **an**.
 >
 
 ##Quiz
 ###Choose the correct article for the following nouns:
-*A/No* article coat  
+*A/No article* coat  
 **-A  
 -No article** 
 
 >
 >**A** coat.
 
-*A/No* article phones  
+*A/No article* phones  
 **-A  
 -No article**
 
 >
->No article
+>**No article** phones
 
 ## Consonants & Vowels
 Generally we use the **an** article with nouns that start with a vowel. (insert a photo of the vowels)
@@ -128,7 +120,7 @@ Example: horse (insert sound clip here)
 An**
 
 >
->An Hour
+>An hour
 
 *A/An* horse (insert sound clip here)  
 **A  
@@ -144,14 +136,14 @@ An**
  >
  >A head
  
-A/An house (insert sound clip here)
+A/An house (insert sound clip here)  
 **A
 An**
 
 >
 >A house
  
-A/An historic moment (insert sound clip here)
+A/An historic moment (insert sound clip here)  
 **A
 An**
 
@@ -258,13 +250,13 @@ It’s good car. OR It’s a good car.
 It's a good car.**
 
 >
-It’s good car.  There is only one car and we don’t know which car so we want to use the indefinite article a. 
+It’s good car.  No, this sentence needs an article.
 >
 
 .
 
 >
-It’s a good car.  There is only one car so we need the singular article a. :p
+It’s a good car.  Good job! 
 >
 
 *A/An* orange		
@@ -307,20 +299,27 @@ The**
 **The** car.
 >
 
-I want to ride **an/a** horse.		
+I want to ride **an/a/the/no article** horse.		
 **A  
-An**
+An  
+The  
+No article**
 
 >
 I want to ride **a** horse.
+I want to ride **the** horse.
 >
 
-I want **the/a** ice cream.  
+I want **the/a/an/no article** ice cream.  
 **The  
-A**
+A  
+An  
+No article**
 
 >
 I want **the** ice cream.
+I want **an** ice cream.
+I want ice cream.
 >
 
 Take me to **an/a** hostel.		
@@ -341,14 +340,14 @@ The**
 I like to eat **a** salad before I eat **the** main course.
 >
 
-Yesterday when I was at **an/the** house with Mary’s friends I saw **an/a** banana and I wanted to eat it!  
+Yesterday I was at **an/no article** home when I saw **an/a** banana and I  ate it!  
 1. **An  
-The**  
+No article**  
 2. **An  
-A**
+No article**
 
 >
-Yesterday when I was at **the** house with Mary’s friends I saw **a** banana and I wanted to eat it!
+Yesterday I was home I saw **a** banana and I ate it!
 >
 
 ##Final Quiz:
