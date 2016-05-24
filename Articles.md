@@ -37,6 +37,65 @@ An**
 >
 >**An** egg
 
+## Special cases with "H" for an/a
+Sometimes we use **an** with words that start with H. 
+
+>
+Examples: An historic moment, An hour, An honorable man. (insert sound clip of each of these)
+>
+
+And sometimes we use **a** with words that start with H.
+
+>
+Examples: A house, A horse, A head. (insert sound clip of each of these)
+>
+
+Generally if the beginning of the word starts with a vowel sound then we use **an** and if it starts with an “h” sound, we use **a**.
+
+####Listen to the examples below. Can you hear the difference between the vowel sound and "h" sound?
+>
+Example: hour (insert sound clip here)  
+Example: horse (insert sound clip here)
+
+>
+
+##Quiz:
+###Choose the correct article for the following nouns:
+*A/An* hour (insert sound clip here)  
+**A  
+An**
+
+>
+>An hour
+
+*A/An* horse (insert sound clip here)  
+**A  
+An**
+
+>
+>A horse
+ 
+*A/An* head (insert sound clip here)  
+**A  
+An**
+ 
+ >
+ >A head
+ 
+A/An house (insert sound clip here)  
+**A
+An**
+
+>
+>A house
+ 
+A/An historic moment (insert sound clip here)  
+**A
+An**
+
+>
+>An historic moment
+
 ## Singular Indefinite Articles - **a & an** 
 **A & an** are the indefinite articles. They show that the speaker doesn’t know how much of something there is. 
 
@@ -84,6 +143,26 @@ For example:
 "There is **an** apple."   
 "Can I have **the** apple?"  
 >
+
+##Quiz
+###Choose the correct answer for the following questions:
+
+Let's have dinner at **a/the** table.
+**-A  
+-The**
+
+>
+>Let's have dinner at **the** table.
+
+I want **a/no article** puppy! Can I please get **an/the** black one?
+1. **A  
+No**
+
+2. **An  
+The**
+
+>
+>I want **a** puppy! Can I please get **the** black one?
 
 ##Plural Indefinite Articles - **an/a**
 If the noun is plural (more than one thing: chairs, tables, dogs) generally we do *not* use **a** or **an**. 
@@ -196,65 +275,6 @@ I like **no article/the** nature.
 
 >
 >I like nature.
-
-## Special cases with "H" for an/a
-Sometimes we use **an** with words that start with H. 
-
->
-Examples: An historic moment, An hour, An honorable man. (insert sound clip of each of these)
->
-
-And sometimes we use **a** with words that start with H.
-
->
-Examples: A house, A horse, A head. (insert sound clip of each of these)
->
-
-Generally if the beginning of the word starts with a vowel sound then we use **an** and if it starts with an “h” sound, we use **a**.
-
-####Listen to the examples below. Can you hear the difference between the vowel sound and "h" sound?
->
-Example: hour (insert sound clip here)  
-Example: horse (insert sound clip here)
-
->
-
-##Quiz:
-###Choose the correct article for the following nouns:
-*A/An* hour (insert sound clip here)  
-**A  
-An**
-
->
->An hour
-
-*A/An* horse (insert sound clip here)  
-**A  
-An**
-
->
->A horse
- 
-*A/An* head (insert sound clip here)  
-**A  
-An**
- 
- >
- >A head
- 
-A/An house (insert sound clip here)  
-**A
-An**
-
->
->A house
- 
-A/An historic moment (insert sound clip here)  
-**A
-An**
-
->
->An historic moment
 
 **More quizzes! / Explain again** 		
 *(If they choose Explain again, it will return them to the top to re-read otherwise move on to Quiz)*
