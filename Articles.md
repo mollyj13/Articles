@@ -1,62 +1,7 @@
 # Hello and welcome to the Articles course on Tapas Talk. 
 ### We hope you learn a lot about **A, An, & The**. 
 
-## Let’s start with the indefinite articles - **a & an**. 
-**A & an** are the indefinite articles. They show that the speaker doesn’t know how much of something there is. 
-
->
-For example: **“a car.”**  
-Ok, whose car? How many cars? Because neither of us know anything about this car, we use the indefinite **a** article. 
->
-
-##Quiz
-###Choose the correct article for the following nouns:
-I have *A/two* bed.  	
-**-A  
--Two** 
-
->
->**A** bed.
-
-I want *A/two* car.  	
-**-A  
--Two** 
-
->
->**A** car.
-
-##Definite VS. Indefinite, Singular
-We also use **a & an** to say that there is only one of something. 
-
->
-For example: “**an** apple”. 
-How many apples are there? 1. 
->
-
-If the noun is plural (more than one thing: chairs, tables, dogs) we do *not* use **a** or **an**. 
-
->
-For example: "Two dogs:.
-There is more than one dog, so "two" describes the dogs. We don't need either **a** or **an**.
->
-
-##Quiz
-###Choose the correct article for the following nouns:
-*A/No article* coat  
-**-A  
--No article** 
-
->
->**A** coat.
-
-*A/No article* phones  
-**-A  
--No article**
-
->
->**No article** phones
-
-## Consonants & Vowels
+## When to us A vs. An
 Generally we use the **an** article with nouns that start with a vowel. (insert a photo of the vowels)
 
 >
@@ -92,17 +37,177 @@ An**
 >
 >**An** egg
 
-## An or A?
+## Singular Indefinite Articles - **a & an** 
+**A & an** are the indefinite articles. They show that the speaker doesn’t know how much of something there is. 
+
+>
+For example: **“a car.”**  
+Ok, whose car? How many cars? Because neither of us know anything about this car, we use the indefinite **a** article. 
+>
+
+We also use **a & an** to say that there is only one of something. 
+
+>
+For example: “**an** apple”. 
+How many apples are there? 1. 
+>
+
+##Quiz
+###Choose the correct article for the following nouns:
+I have *A/two* bed.  	
+**-A  
+-Two** 
+
+>
+>**A** bed.
+
+I want *An/two* orange.  	
+**-An  
+-Two** 
+
+>
+>**An** orange.
+
+##Singular Definite Article - **the**
+**The** is the definite article and tells us that both the speaker and the listener know of the object. 
+
+>
+For example:“**The** apple is red.”  
+How do they know which apple? Because the apple is the only apple you could be talking about and everyone knows which specific apple. 
+>
+
+We also use **the** when there is only one of something. Usually we use **a** or **an** when we don't know how much of something there is. Once we know how many of the object there is we switch to the definite article **the**.
+
+>
+For example:   
+“How many apples are there?”   
+"There is **an** apple."   
+"Can I have **the** apple?"  
+>
+
+##Plural Indefinite Articles - **an/a**
+If the noun is plural (more than one thing: chairs, tables, dogs) generally we do *not* use **a** or **an**. 
+
+>
+For example: "Two dogs".
+There is more than one dog, so "two" describes the dogs. We don't say "a two dogs".
+>
+
+We also do not usually use **a** or **an** with uncountable nouns. Here are some examples of uncountable nouns:
+
+>
+Water  
+Music  
+Furniture  
+Rice 
+None of these nouns has a plural form. 
+>
+
+##Quiz
+###Choose the correct article for the following nouns:
+*A/No article* coat  
+**-A  
+-No article** 
+
+>
+>**A** coat
+
+*A/No article* phones  
+**-A  
+-No article**
+
+>
+>**No article** phones
+
+
+**-An/No article** rice  
+**-An  
+No article**
+
+>
+>**No article** rice
+
+##Plural Definite Article - **the**
+Can we use **the** to talk about things in general? 
+
+>
+For Example: The elephants can swim well.   
+**Yes  
+No  
+It depends**
+>
+
+YES
+
+>
+>Yes. In this case, the speakers both know which things are in question so they can use **the**. 
+
+>Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming. 
+
+>However, If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
+>
+
+NO
+
+>
+>No. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
+
+>But, if both speakers know which things are in question they can use **the**. 
+
+>Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
+>
+
+IT DEPENDS
+
+>
+It depends. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the*. 
+
+>But, if both speakers know which things are in question, they can use **the**. 
+
+>Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
+
+We also use **the** to talk about things that are part of everyday life. 
+
+>
+Example: The bus. 
+Here we aren't talking about one specific bus, but a common experience that we all share. 
+>
+
+##Quiz
+###Choose the correct article for the following nouns:
+
+Do you sing in **the/no article* shower?
+**-The  
+No article**
+
+>
+>Do you sing in the shower?
+
+**The/No article** life changes.
+**-The  
+No article**
+
+>
+>Life changes.
+
+I like **no article/the** nature.
+**-No article  
+-The**
+
+>
+>I like nature.
+
+## Special cases with "H" for an/a
 Sometimes we use **an** with words that start with H. 
 
 >
-Examples: An historic moment, An hour, An honorable man. 
+Examples: An historic moment, An hour, An honorable man. (insert sound clip of each of these)
 >
 
 And sometimes we use **a** with words that start with H.
 
 >
-Examples: A house, A horse, A head.
+Examples: A house, A horse, A head. (insert sound clip of each of these)
 >
 
 Generally if the beginning of the word starts with a vowel sound then we use **an** and if it starts with an “h” sound, we use **a**.
@@ -111,6 +216,7 @@ Generally if the beginning of the word starts with a vowel sound then we use **a
 >
 Example: hour (insert sound clip here)  
 Example: horse (insert sound clip here)
+
 >
 
 ##Quiz:
@@ -149,55 +255,6 @@ An**
 
 >
 >An historic moment
-
-The follow section needs more though on how to clearly delineate the different ways that people can choose based on their answers.
-
-##The
-**The** is the definite article and tells us that both the speaker and the listener know of the object. 
-
->
-For example:“**The** apple is red.”  
-How do they know which apple? Because the apple is the only apple you could be talking about OR everyone knows about the specific apple. 
->
-
-Can we use **the** to talk about things in general? 
-
->
-For Example: The elephants can swim well.   
-**Yes  
-No  
-It depends**
->
-
-Separating text
-
->
->Yes. In this case, the speakers both know which things are in question so they can use **the**. 
-
->Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming. 
-
->However, If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
->
-
-Separating text.
-
->
->No. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
-
->But, if both speakers know which things are in question they can use **the**. 
-
->Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
->
-
-Separating text
-
->
-It depends. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the*. 
-
->But, if both speakers know which things are in question, they can use **the**. 
-
->Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
->
 
 **More quizzes! / Explain again** 		
 *(If they choose Explain again, it will return them to the top to re-read otherwise move on to Quiz)*
@@ -250,7 +307,7 @@ It’s good car. OR It’s a good car.
 It's a good car.**
 
 >
-It’s good car.  No, this sentence needs an article.
+It’s good car.  No, this sentence needs an **a** article.
 >
 
 .
@@ -298,6 +355,14 @@ The**
 >
 **The** car.
 >
+
+I love **a/the/no article** cheese.
+**A  
+The  
+No article**
+
+>
+>I love cheese.
 
 I want to ride **an/a/the/no article** horse.		
 **A  
