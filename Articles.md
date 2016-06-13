@@ -101,7 +101,7 @@ An**
 
 >
 For example: **“a car.”**  
-Ok, whose car? How many cars? Because neither of us know anything about this car, we use the indefinite **a** article. 
+Ok, whose car? Which car? Because neither of us know anything about this car, we use the indefinite **a** article. 
 >
 
 We also use **a & an** to say that there is only one of something. 
