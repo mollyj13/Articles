@@ -97,7 +97,7 @@ An**
 >An historic moment
 
 ## Singular Indefinite Articles - **a & an** 
-**A & an** are the indefinite articles. They show that the speaker doesn’t know how much of something there is. 
+**A & an** are the indefinite articles. They show that the speaker hasn't identified a specific item. 
 
 >
 For example: **“a car.”**  
@@ -113,21 +113,21 @@ How many apples are there? 1.
 
 ##Quiz
 ###Choose the correct article for the following nouns:
-I have *A/two* bed.  	
+I have *a/two* bed.  	
 **-A  
 -Two** 
 
 >
 >**A** bed.
 
-I want *An/two* orange.  	
+I want *an/two* orange.  	
 **-An  
 -Two** 
 
 >
 >**An** orange.
 
-##Singular Definite Article - **the**
+##Definite Article - **the**
 **The** is the definite article and tells us that both the speaker and the listener know of the object. 
 
 >
@@ -135,34 +135,25 @@ For example:“**The** apple is red.”
 How do they know which apple? Because the apple is the only apple you could be talking about and everyone knows which specific apple. 
 >
 
-We also use **the** when there is only one of something. Usually we use **a** or **an** when we don't know how much of something there is. Once we know how many of the object there is we switch to the definite article **the**.
-
->
-For example:   
-“How many apples are there?”   
-"There is **an** apple."   
-"Can I have **the** apple?"  
->
-
 ##Quiz
 ###Choose the correct answer for the following questions:
 
-Let's have dinner at **a/the** table.
-**-A  
+Let's have dinner at **no article/the** table.  
+**-No article  
 -The**
 
 >
 >Let's have dinner at **the** table.
 
-I want **a/no article** puppy! Can I please get **an/the** black one?
+Yesterday I bought **a/no article** puppy! **A/The** puppy is black.   
 1. **A  
-No**
+No article**
 
-2. **An  
+2. **A  
 The**
 
 >
->I want **a** puppy! Can I please get **the** black one?
+>Yesterday I bought **a** puppy! **The** puppy is black.
 
 ##Plural Indefinite Articles - **an/a**
 If the noun is plural (more than one thing: chairs, tables, dogs) generally we do *not* use **a** or **an**. 
