@@ -155,6 +155,13 @@ The**
 >
 >Yesterday I bought **a** puppy! **The** puppy is black.
 
+**The/A** students are hard workers.   
+**-The  
+A**  
+
+>
+>**The** students are hard workers. 
+
 ##Plural Indefinite Articles - **an/a**
 If the noun is plural (more than one thing: chairs, tables, dogs) generally we do *not* use **a** or **an**. 
 
@@ -198,43 +205,15 @@ No article**
 >**No article** rice
 
 ##Plural Definite Article - **the**
-Can we use **the** to talk about things in general? 
+We can use **the** to talk about things in general or to make generalizations. When we talk about *all of something*, we don't use an article. 
 
 >
-For Example: The elephants can swim well.   
-**Yes  
-No  
-It depends**
+For Example: Elephants are large. 
 >
 
-YES
+In this example, we are talking about EVERY elephant. We don't use an article because we can't know every single elephant in the whole world. 
 
->
->Yes. In this case, the speakers both know which things are in question so they can use **the**. 
-
->Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming. 
-
->However, If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
->
-
-NO
-
->
->No. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the** to describe all of those elephants. There’s too many elephants to use the definite article **the**. 
-
->But, if both speakers know which things are in question they can use **the**. 
-
->Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
->
-
-IT DEPENDS
-
->
-It depends. If you want to talk about all things, for example *every elephant that exists*, you can’t use **the*. 
-
->But, if both speakers know which things are in question, they can use **the**. 
-
->Example: While at the zoo with your friend, you say, “**The** elephants can swim well!” this is because both you and your friend know *which elephants* are currently swimming.  
+We can, however, see a group of 1,000 elephants and say: **The** elephants are large! We can do this because we are making generalizations about a group of elephants that both the speaker and listener know. 
 
 We also use **the** to talk about things that are part of everyday life. 
 
@@ -246,26 +225,26 @@ Here we aren't talking about one specific bus, but a common experience that we a
 ##Quiz
 ###Choose the correct article for the following nouns:
 
-Do you sing in **the/no article* shower?
+**The/No article** life always changes with time.
 **-The  
 No article**
 
 >
->Do you sing in the shower?
+>Life always changes with time.
 
-**The/No article** life changes.
+I want one of **the/no article** sandwiches you bought.   
+**-the  
+-no article**  
+
+>
+>I want one of the sandwiches you bought. 
+
+I think **the/no article** cars are bad for the environment. 
 **-The  
-No article**
+-No Article**  
 
 >
->Life changes.
-
-I like **no article/the** nature.
-**-No article  
--The**
-
->
->I like nature.
+>I think cars are bad for the environment.
 
 **More quizzes! / Explain again** 		
 *(If they choose Explain again, it will return them to the top to re-read otherwise move on to Quiz)*
