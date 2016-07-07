@@ -38,19 +38,19 @@ An**
 >**An** egg
 
 ## Special cases with "H" for an/a
-Sometimes we use **an** with words that start with H. 
+Most of the time we use **an** with words that start with a silent H. 
 
 >
 Examples: An historic moment, An hour, An honorable man. (insert sound clip of each of these)
 >
 
-And sometimes we use **a** with words that start with H.
+Most of the time we use **a** with words that start with H. In these cases, the H is pronounced.
 
 >
 Examples: A house, A horse, A head. (insert sound clip of each of these)
 >
 
-Generally if the beginning of the word starts with a vowel sound then we use **an** and if it starts with an “h” sound, we use **a**.
+Generally if the beginning of the word starts with a vowel sound (silent H) then we use **an** and if it starts with an “h” sound, we use **a**. 
 
 ####Listen to the examples below. Can you hear the difference between the vowel sound and "h" sound?
 >
