@@ -204,7 +204,7 @@ No article**
 >I went to the store to buy **No article** rice
 
 ##Plural Definite Article - **the**
-We can use **the** to talk about things in general or to make generalizations. When we talk about *all of something*, we don't use an article. 
+When we make generalizations about *all of something*, we don't use an article. 
 
 >
 For Example: Elephants are large. 
