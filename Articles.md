@@ -50,7 +50,7 @@ Most of the time we use **a** with words that start with H. In these cases, the 
 Examples: A house, A horse, A head. (insert sound clip of each of these)
 >
 
-Generally if the beginning of the word starts with a vowel sound (silent H) then we use **an** and if it starts with an “h” sound, we use **a**. 
+Generally if the beginning of the word starts with a vowel sound, because of the silent H, then we use **an** and if it starts with an “h” sound, we use **a**. 
 
 ####Listen to the examples below. Can you hear the difference between the vowel sound and "h" sound?
 >
@@ -163,7 +163,7 @@ For example: "Two dogs".
 There is more than one dog, so "two" describes the dogs. We don't say "a two dogs".
 >
 
-We also do not usually use **a** or **an** with uncountable nouns. Here are some examples of uncountable nouns:
+We also do not usually use **a** or **an** with uncountable nouns. Uncountable nouns cannot be counted, therefore they don't need an article. Here are some examples of uncountable nouns:
 
 >
 Water  
