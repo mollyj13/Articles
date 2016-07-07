@@ -182,27 +182,26 @@ None of these nouns has a plural form.
 
 ##Quiz
 ###Choose the correct article for the following nouns:
-*A/No article* coat  
+I went to the store to buy *A/No article* coat.  
 **-A  
 -No article** 
 
 >
->**A** coat
+>I went to the store to buy **a** coat.
 
-*A/No article* phones  
+I went to the store to buy *A/No article* phones  
 **-A  
 -No article**
 
 >
->**No article** phones
+>I went to the store to buy **No article** phones
 
-
-**-An/No article** rice  
+I went to the store to buy **-An/No article** rice  
 **-An  
 No article**
 
 >
->**No article** rice
+>I went to the store to buy **No article** rice
 
 ##Plural Definite Article - **the**
 We can use **the** to talk about things in general or to make generalizations. When we talk about *all of something*, we don't use an article. 
