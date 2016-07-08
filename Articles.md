@@ -238,6 +238,9 @@ I think **the/no article** cars are bad for the environment.
 >
 >I think cars are bad for the environment.
 
+**Quiz**
+Send your response 
+
 **More quizzes! / Explain again** 		
 *(If they choose Explain again, it will return them to the top to re-read otherwise move on to Quiz)*
 
