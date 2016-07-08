@@ -214,13 +214,6 @@ In this example, we are talking about EVERY elephant. We don't use an article be
 
 We can, however, see a group of 1,000 elephants and say: **The** elephants are large! We can do this because we are making generalizations about a group of elephants that both the speaker and listener know. 
 
-We also use **the** to talk about things that are part of everyday life. 
-
->
-Example: The bus. 
-Here we aren't talking about one specific bus, but a common experience that we all share. 
->
-
 ##Quiz
 ###Choose the correct article for the following nouns:
 
@@ -231,12 +224,12 @@ No article**
 >
 >Life always changes with time.
 
-I want one of **the/no article** sandwiches you bought.   
+Yesterday I bought 20 sandwiches. **The/No article** sandwiches were delicious!   
 **-the  
 -no article**  
 
 >
->I want one of the sandwiches you bought. 
+>Yesterday I bought 20 sandwiches. **The** sandwiches were delicious!
 
 I think **the/no article** cars are bad for the environment. 
 **-The  
