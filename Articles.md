@@ -250,47 +250,6 @@ I think **the/no article** cars are bad for the environment.
 
 ##Quiz
 ###Choose the correct answer for the following questions:
-*The* Switzerland is in Europe.  
-**The  
-No The**
-
->
-The- Switzerland is a country and it’s also a proper noun so it doesn’t need an article. 
->
-
-.
-
->
-No The! 
-Because Switzerland is a proper noun and a country it doesn’t need an article.
->
-
-I like to visit my the uncle.   
-**The  
-No The**
-
->
-The- Your uncle belongs to you (also known as a “possessive”), he doesn’t need an article, we already know that he is yours. 
->
-
-.
-
->
-No The. Here, your uncle belongs to you (also known as a “possessive”), he doesn’t need an article, we already know that he is yours. 
->
-
-I like to visit an uncle of mine.   
-**An  
-No An**
-
->
->An. Yes! Very good. You are saying that you have more than one uncle but the listener doesn’t know which one, so you need an indefinite article. 
-
-.
-
->
->No An- “I like to visit an uncle of mine.” You are saying that you have more than one uncle but the listener doesn’t know which one, so you need an indefinite article. 
-
 It’s good car. OR It’s a good car.   
 **It's good car.    
 It's a good car.**
